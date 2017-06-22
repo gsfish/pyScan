@@ -1,19 +1,21 @@
 # pyScan
 
+pyScan is a light scanner which can be run independently or import as a python module.
+
 # Requirement
 
 `Python > 3.0`
 
 # Usage
 
-### run independently
+### 1. run independently
 
 ```
 git clone https://github.com/gsfish/pyScan.git
 python scan.py -t 10 -o result.txt
 ```
 
-### import as module
+### 2. import as module
 
 ```
 import scan
